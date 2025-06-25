@@ -1,0 +1,14 @@
+/Users/halight/dev/oop-practice/oop-2/bin/Debug/net8.0/oop-2
+/Users/halight/dev/oop-practice/oop-2/bin/Debug/net8.0/oop-2.deps.json
+/Users/halight/dev/oop-practice/oop-2/bin/Debug/net8.0/oop-2.runtimeconfig.json
+/Users/halight/dev/oop-practice/oop-2/bin/Debug/net8.0/oop-2.dll
+/Users/halight/dev/oop-practice/oop-2/bin/Debug/net8.0/oop-2.pdb
+/Users/halight/dev/oop-practice/oop-2/obj/Debug/net8.0/oop-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/halight/dev/oop-practice/oop-2/obj/Debug/net8.0/oop-2.AssemblyInfoInputs.cache
+/Users/halight/dev/oop-practice/oop-2/obj/Debug/net8.0/oop-2.AssemblyInfo.cs
+/Users/halight/dev/oop-practice/oop-2/obj/Debug/net8.0/oop-2.csproj.CoreCompileInputs.cache
+/Users/halight/dev/oop-practice/oop-2/obj/Debug/net8.0/oop-2.dll
+/Users/halight/dev/oop-practice/oop-2/obj/Debug/net8.0/refint/oop-2.dll
+/Users/halight/dev/oop-practice/oop-2/obj/Debug/net8.0/oop-2.pdb
+/Users/halight/dev/oop-practice/oop-2/obj/Debug/net8.0/oop-2.genruntimeconfig.cache
+/Users/halight/dev/oop-practice/oop-2/obj/Debug/net8.0/ref/oop-2.dll
