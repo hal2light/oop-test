@@ -1,0 +1,15 @@
+/Users/halight/dev/oop-practice/oop-output/oop-output-1/bin/Debug/net8.0/oop-output-1
+/Users/halight/dev/oop-practice/oop-output/oop-output-1/bin/Debug/net8.0/oop-output-1.deps.json
+/Users/halight/dev/oop-practice/oop-output/oop-output-1/bin/Debug/net8.0/oop-output-1.runtimeconfig.json
+/Users/halight/dev/oop-practice/oop-output/oop-output-1/bin/Debug/net8.0/oop-output-1.dll
+/Users/halight/dev/oop-practice/oop-output/oop-output-1/bin/Debug/net8.0/oop-output-1.pdb
+/Users/halight/dev/oop-practice/oop-output/oop-output-1/obj/Debug/net8.0/oop-output-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/halight/dev/oop-practice/oop-output/oop-output-1/obj/Debug/net8.0/oop-output-1.AssemblyInfoInputs.cache
+/Users/halight/dev/oop-practice/oop-output/oop-output-1/obj/Debug/net8.0/oop-output-1.AssemblyInfo.cs
+/Users/halight/dev/oop-practice/oop-output/oop-output-1/obj/Debug/net8.0/oop-output-1.csproj.CoreCompileInputs.cache
+/Users/halight/dev/oop-practice/oop-output/oop-output-1/obj/Debug/net8.0/oop-output-1.sourcelink.json
+/Users/halight/dev/oop-practice/oop-output/oop-output-1/obj/Debug/net8.0/oop-output-1.dll
+/Users/halight/dev/oop-practice/oop-output/oop-output-1/obj/Debug/net8.0/refint/oop-output-1.dll
+/Users/halight/dev/oop-practice/oop-output/oop-output-1/obj/Debug/net8.0/oop-output-1.pdb
+/Users/halight/dev/oop-practice/oop-output/oop-output-1/obj/Debug/net8.0/oop-output-1.genruntimeconfig.cache
+/Users/halight/dev/oop-practice/oop-output/oop-output-1/obj/Debug/net8.0/ref/oop-output-1.dll

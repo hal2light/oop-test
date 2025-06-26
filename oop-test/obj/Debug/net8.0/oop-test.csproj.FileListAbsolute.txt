@@ -1,0 +1,15 @@
+/Users/halight/dev/oop-practice/oop-test/obj/Debug/net8.0/oop-test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/halight/dev/oop-practice/oop-test/obj/Debug/net8.0/oop-test.AssemblyInfoInputs.cache
+/Users/halight/dev/oop-practice/oop-test/obj/Debug/net8.0/oop-test.AssemblyInfo.cs
+/Users/halight/dev/oop-practice/oop-test/obj/Debug/net8.0/oop-test.csproj.CoreCompileInputs.cache
+/Users/halight/dev/oop-practice/oop-test/obj/Debug/net8.0/oop-test.sourcelink.json
+/Users/halight/dev/oop-practice/oop-test/bin/Debug/net8.0/oop-test
+/Users/halight/dev/oop-practice/oop-test/bin/Debug/net8.0/oop-test.deps.json
+/Users/halight/dev/oop-practice/oop-test/bin/Debug/net8.0/oop-test.runtimeconfig.json
+/Users/halight/dev/oop-practice/oop-test/bin/Debug/net8.0/oop-test.dll
+/Users/halight/dev/oop-practice/oop-test/bin/Debug/net8.0/oop-test.pdb
+/Users/halight/dev/oop-practice/oop-test/obj/Debug/net8.0/oop-test.dll
+/Users/halight/dev/oop-practice/oop-test/obj/Debug/net8.0/refint/oop-test.dll
+/Users/halight/dev/oop-practice/oop-test/obj/Debug/net8.0/oop-test.pdb
+/Users/halight/dev/oop-practice/oop-test/obj/Debug/net8.0/oop-test.genruntimeconfig.cache
+/Users/halight/dev/oop-practice/oop-test/obj/Debug/net8.0/ref/oop-test.dll
